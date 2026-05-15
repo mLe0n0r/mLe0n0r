@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Leonor Guedes
 
 I'm a Master's student in **Electrical and Computer Engineering** at **FEUP** (Faculty of Engineering, University of Porto), specializing in **Telecommunications, Electronics and Computers**.  
-My interests are mainly focused on **mobile and wireless communications**, **telecommunication networks**, and **computer vision**. I’m particularly drawn to topics such as cellular networks, wireless systems, network performance, image processing, object recognition, and machine learning applications. I also enjoy practical electronics projects, especially when they allow me to connect theory with hands-on development. I am motivated by clear goals, new challenges, and the opportunity to keep learning while improving the areas where I still have room to grow.
+My interests are mainly focused on **mobile and wireless communications**, **telecommunication networks**, and **computer vision**. I also enjoy practical electronics projects, especially when they allow me to connect theory with hands-on development. I am motivated by clear goals, new challenges, and the opportunity to keep learning while improving the areas where I still have room to grow.
 
 ---
 
