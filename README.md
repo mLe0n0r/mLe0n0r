@@ -5,16 +5,16 @@ My interests are mainly focused on **mobile and wireless communications**, **tel
 
 ---
 
-**Languages & Tools:**  
+### Languages & Tools:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
 
-**Fields of Interest:**  
+### Fields of Interest:  
 - **Mobile and Wireless Communications**  
 - **Telecommunication Networks**  
 - **Radio Communication Systems**  
@@ -22,15 +22,14 @@ My interests are mainly focused on **mobile and wireless communications**, **tel
 - **Computer Vision**  
 - **Electronics**
 
----
+### GitHub Stats
 
-## GitHub Stats
 ![Leonor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mLe0n0r&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mLe0n0r&layout=compact&theme=transparent)
 
 ---
 
-## Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonor%20Guedes-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mleonorguedes/)
 [![Email](https://img.shields.io/badge/Email-mleonor.guedes@hotmail.com-lightgrey?style=flat-square&logo=gmail)](mailto:mleonor.guedes@hotmail.com)
 
