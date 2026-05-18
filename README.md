@@ -21,12 +21,7 @@ My interests are mainly focused on **mobile and wireless communications**, **tel
 - **Signal and Image Processing**  
 - **Computer Vision**  
 - **Electronics**
-
-### GitHub Stats
-
-![Leonor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mLe0n0r&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mLe0n0r&layout=compact&theme=transparent)
-
+  
 ---
 
 ### Connect with Me
